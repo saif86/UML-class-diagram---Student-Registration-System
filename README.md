@@ -6,5 +6,7 @@ Converting a problem statement into class diagram.
 ---
 ## Solution
 
-[Step-wise procedure to translate a problem statement into class diagram](https://github.com/saif86/Object-Oriented-Modeling---Graphic-Editor)
+
 ![wechat image_20180925103032](https://user-images.githubusercontent.com/41892175/46054770-4f472180-c17b-11e8-99d5-d140b201046b.jpg)
+
+To learn how to convert Problem Statment into UML class diagram click here: [Step-wise procedure to translate a problem statement into class diagram](https://github.com/saif86/Object-Oriented-Modeling---Graphic-Editor)
